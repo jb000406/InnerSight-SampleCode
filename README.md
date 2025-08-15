@@ -20,9 +20,9 @@
 - 기능1: 설명
 - 기능2: 설명
 
-### 🧩 스크립트 구성도
-https://github.com/jb000406/InnerSight-SampleCode/blob/main/%EB%A7%88%EA%B2%BD%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B5%AC%EC%A1%B0.png
+## 🧩 스크립트 구조도
 
+<img src="마경 스크립트 구조.png" width="600"/>
 
 
 ### 🔗 스크립트 관계도
